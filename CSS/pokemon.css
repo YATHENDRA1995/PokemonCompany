@@ -1,0 +1,61 @@
+body{
+    padding: 20px;
+    color:#5a5a5a;
+}
+
+.navbar-wrapper{
+    position: absolute;
+    top:0;
+    right:0;
+    left:0;
+}
+
+.navbar-wrapper .navbar{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar-wrapper .navbar .container{
+    width:auto;
+}
+
+#mycarousel{
+    height:500px;
+    margin-bottom: 50px;
+}
+
+.carousel-inner .item{
+    height: 500px;
+    background-color: #777;
+    color: firebrick;
+}
+
+.carousel-inner>.item>img{
+    position: absolute;
+    top:0;
+    left:0;
+    height:500px;
+    min-width: 100%;
+}
+
+.team{
+    text-align: center;
+}
+
+.divider{
+    margin:20px 0;
+}
+
+.mickey{
+    text-align:center;
+    padding:10px;
+    padding-top: 20px;
+}
+
+.content{
+    margin-bottom: 20px;
+}
+
+footer{
+    margin: 0 50px;
+}
